@@ -3,11 +3,10 @@
 I've created a CV summarizer AI model using Spacy NER (Named Entity Recognition) model.
 
 ## Demo
-
+Before submitting pdf resume file:
 ![Website Screenshot](https://github.com/ishtiuk/Resume-CV-Summarizer/blob/master/images/ui_before.png?raw=true)
 
-Here is a screenshot of the app's website:
-
+After submitting pdf resume file:
 ![Website Screenshot](https://github.com/ishtiuk/Resume-CV-Summarizer/blob/master/images/ui_after.png?raw=true)
 
 ## Description
