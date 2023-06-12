@@ -36,11 +36,11 @@ The project involves training a Spacy NER model to detect various named entities
 
 My whole training process includes the following steps:
 
-1. Training the Spacy blank English NER model on a total of 1214 CV/resume data to detect named entities.
-2. Preprocessing the training data and converting it into Spacy Docbin objects.
-3. Saving the training data and testing data as "train_data.spacy" and "test_data.spacy" respectively.
-4. Training the model on Google Colab with a Tesla T4 16GB GPU using Spacy Transformer.
-5. Saving the trained model outputs in two separate folders: "model-best" and "model-last". The "model-best" folder contains the best model during training with an accuracy score of 84%.
+- Training the Spacy blank English NER model on a total of 1214 CV/resume data to detect named entities.
+- Preprocessing the training data and converting it into Spacy Docbin objects.
+- Saving the training data and testing data as "train_data.spacy" and "test_data.spacy" respectively.
+- Training the model on Google Colab with a Tesla T4 16GB GPU using Spacy Transformer.
+- Saving the trained model outputs in two separate folders: "model-best" and "model-last". The "model-best" folder contains the best model during training with an accuracy score of 84%.
 
 ## Requirements
 
