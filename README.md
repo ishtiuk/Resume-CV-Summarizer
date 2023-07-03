@@ -99,6 +99,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 This project was inspired by the need for automating the process of summarizing CVs and resumes. Special thanks to the Spacy and spacy_transformer teams for their excellent libraries and resources.
 
-# License
+## License
 
 This project is licensed under the [MIT License](https://github.com/ishtiuk/Resume-CV-Summarizer/blob/main/LICENSE).
